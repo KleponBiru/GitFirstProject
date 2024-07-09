@@ -1,5 +1,7 @@
 <h1>My First Project</h1>
 
+![GitFirstProject](https://github.com/KleponBiru/GitFirstProject/assets/159217810/d683c167-5912-4966-a66c-56b873dd57d5)
+
 <p>
   This is my first project using Unity Engine to create a game.
 </p>
